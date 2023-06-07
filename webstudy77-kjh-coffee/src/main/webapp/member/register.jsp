@@ -11,12 +11,10 @@
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.4/dist/jquery.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
-<title>home</title>
+<title>Insert title here</title>
 </head>
 <body>
 <div class="container pt-3">
-<h5>kjh coffee web project</h5>
-test1
 
 </div>
 </body>
